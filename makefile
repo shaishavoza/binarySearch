@@ -1,4 +1,4 @@
-#This is the makefile for binary search as part of homework 3 for DAA course
+#This is the makefile for binary search
 
-assignment1:
+binarySearch:
 	gcc binarysearch.c -o binarySearch
